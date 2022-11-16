@@ -1,0 +1,641 @@
+,Id numeric,Id text,Sample name,Sampled date,Sampling start,Sampling end,Testname,Component name,Wnsident,Result text,Units,Result status,Dig rap,Pdf rap,Order number
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889252System.Drawing.Bitmap,889252,22-125371,NL14_20930,9/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889253System.Drawing.Bitmap,889253,22-125372,NL14_20930,9/27/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889254System.Drawing.Bitmap,889254,22-125373,NL14_20930,9/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889255System.Drawing.Bitmap,889255,22-125374,NL14_20930,9/20/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889256System.Drawing.Bitmap,889256,22-125375,NL14_20930,9/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889257System.Drawing.Bitmap,889257,22-125376,NL14_20930,9/13/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889258System.Drawing.Bitmap,889258,22-125377,NL14_20930,9/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889259System.Drawing.Bitmap,889259,22-125378,NL14_20930,9/6/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889260System.Drawing.Bitmap,889260,22-125379,NL14_20930,9/2/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889261System.Drawing.Bitmap,889261,22-125380,NL14_20930,8/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889262System.Drawing.Bitmap,889262,22-125381,NL14_20930,8/26/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889263System.Drawing.Bitmap,889263,22-125382,NL14_20930,8/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889264System.Drawing.Bitmap,889264,22-125383,NL14_20930,8/19/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889265System.Drawing.Bitmap,889265,22-125384,NL14_20930,8/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889266System.Drawing.Bitmap,889266,22-125385,NL14_20930,8/12/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889267System.Drawing.Bitmap,889267,22-125386,NL14_20930,8/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],103,mg/l,Authorised,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Entered,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Entered,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Entered,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,,,OMS22-906
+    889268System.Drawing.Bitmap,889268,22-125387,NL14_20930,8/5/2022 13:30,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,,,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],95.4,mg/l,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],700,uS/cm,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],23.3,oC,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889269System.Drawing.Bitmap,889269,22-125388,NL14_20930,8/2/2022 13:04,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030184,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],96.2,mg/l,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],700,uS/cm,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],21.1,oC,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889270System.Drawing.Bitmap,889270,22-125389,NL14_20930,7/29/2022 8:28,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010231,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],84.7,mg/l,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],660,uS/cm,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],22.4,oC,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889271System.Drawing.Bitmap,889271,22-125390,NL14_20930,7/26/2022 10:53,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280126,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889272System.Drawing.Bitmap,889272,22-125391,NL14_20906,9/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889273System.Drawing.Bitmap,889273,22-125392,NL14_20906,9/27/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889274System.Drawing.Bitmap,889274,22-125393,NL14_20906,9/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889275System.Drawing.Bitmap,889275,22-125394,NL14_20906,9/20/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889276System.Drawing.Bitmap,889276,22-125395,NL14_20906,9/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889277System.Drawing.Bitmap,889277,22-125396,NL14_20906,9/13/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889278System.Drawing.Bitmap,889278,22-125397,NL14_20906,9/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889279System.Drawing.Bitmap,889279,22-125398,NL14_20906,9/6/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889280System.Drawing.Bitmap,889280,22-125399,NL14_20906,9/2/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889281System.Drawing.Bitmap,889281,22-125400,NL14_20906,8/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889282System.Drawing.Bitmap,889282,22-125401,NL14_20906,8/26/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889283System.Drawing.Bitmap,889283,22-125402,NL14_20906,8/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889284System.Drawing.Bitmap,889284,22-125403,NL14_20906,8/19/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889285System.Drawing.Bitmap,889285,22-125404,NL14_20906,8/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889286System.Drawing.Bitmap,889286,22-125405,NL14_20906,8/12/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889287System.Drawing.Bitmap,889287,22-125406,NL14_20906,8/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],105,mg/l,Authorised,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Entered,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Entered,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,,,OMS22-906
+    889288System.Drawing.Bitmap,889288,22-125407,NL14_20906,8/5/2022 10:23,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,,,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],98.1,mg/l,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],720,uS/cm,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],21.8,oC,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889289System.Drawing.Bitmap,889289,22-125408,NL14_20906,8/2/2022 9:48,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030183,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],94.4,mg/l,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],690,uS/cm,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],22,oC,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889290System.Drawing.Bitmap,889290,22-125409,NL14_20906,7/29/2022 10:33,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010234,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],88.6,mg/l,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],680,uS/cm,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],23.1,oC,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889291System.Drawing.Bitmap,889291,22-125410,NL14_20906,7/26/2022 15:39,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202207271951.csv,R2207270098,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889292System.Drawing.Bitmap,889292,22-125411,NL14_20112,9/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889293System.Drawing.Bitmap,889293,22-125412,NL14_20112,9/27/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889294System.Drawing.Bitmap,889294,22-125413,NL14_20112,9/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889295System.Drawing.Bitmap,889295,22-125414,NL14_20112,9/20/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889296System.Drawing.Bitmap,889296,22-125415,NL14_20112,9/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889297System.Drawing.Bitmap,889297,22-125416,NL14_20112,9/13/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889298System.Drawing.Bitmap,889298,22-125417,NL14_20112,9/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889299System.Drawing.Bitmap,889299,22-125418,NL14_20112,9/6/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889300System.Drawing.Bitmap,889300,22-125419,NL14_20112,9/2/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889301System.Drawing.Bitmap,889301,22-125420,NL14_20112,8/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889302System.Drawing.Bitmap,889302,22-125421,NL14_20112,8/26/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889303System.Drawing.Bitmap,889303,22-125422,NL14_20112,8/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889304System.Drawing.Bitmap,889304,22-125423,NL14_20112,8/19/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889305System.Drawing.Bitmap,889305,22-125424,NL14_20112,8/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889306System.Drawing.Bitmap,889306,22-125425,NL14_20112,8/12/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889307System.Drawing.Bitmap,889307,22-125426,NL14_20112,8/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],87.2,mg/l,Authorised,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Entered,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Entered,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,,,OMS22-906
+    889308System.Drawing.Bitmap,889308,22-125427,NL14_20112,8/5/2022 14:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],85.7,mg/l,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],650,uS/cm,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],22,oC,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,,,OMS22-906
+    889309System.Drawing.Bitmap,889309,22-125428,NL14_20112,8/3/2022 8:05,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,,,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],84.4,mg/l,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],660,uS/cm,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],21.2,oC,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889310System.Drawing.Bitmap,889310,22-125429,NL14_20112,7/29/2022 9:41,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010232,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],80.6,mg/l,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],650,uS/cm,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],22.8,oC,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889311System.Drawing.Bitmap,889311,22-125430,NL14_20112,7/26/2022 10:02,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280125,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889312System.Drawing.Bitmap,889312,22-125431,NL14_20094,9/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889313System.Drawing.Bitmap,889313,22-125432,NL14_20094,9/27/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889314System.Drawing.Bitmap,889314,22-125433,NL14_20094,9/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889315System.Drawing.Bitmap,889315,22-125434,NL14_20094,9/20/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889316System.Drawing.Bitmap,889316,22-125435,NL14_20094,9/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889317System.Drawing.Bitmap,889317,22-125436,NL14_20094,9/13/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889318System.Drawing.Bitmap,889318,22-125437,NL14_20094,9/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889319System.Drawing.Bitmap,889319,22-125438,NL14_20094,9/6/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889320System.Drawing.Bitmap,889320,22-125439,NL14_20094,9/2/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889321System.Drawing.Bitmap,889321,22-125440,NL14_20094,8/30/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889322System.Drawing.Bitmap,889322,22-125441,NL14_20094,8/26/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889323System.Drawing.Bitmap,889323,22-125442,NL14_20094,8/23/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889324System.Drawing.Bitmap,889324,22-125443,NL14_20094,8/19/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889325System.Drawing.Bitmap,889325,22-125444,NL14_20094,8/16/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889326System.Drawing.Bitmap,889326,22-125445,NL14_20094,8/12/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],,mg/l,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],,m,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,,,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW Locatiebezoek in route,Locatiebezoek in route,,,,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,OW Administratie per monster,Administratiekosten,,,,Unavailable,,,OMS22-906
+    889327System.Drawing.Bitmap,889327,22-125446,NL14_20094,8/9/2022 0:00,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,,,Unavailable,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],103,mg/l,Authorised,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],,uS/cm,Entered,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],,oC,Entered,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,,,OMS22-906
+    889328System.Drawing.Bitmap,889328,22-125447,NL14_20094,8/5/2022 9:21,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,,,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],97.3,mg/l,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],720,uS/cm,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],20.4,oC,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889329System.Drawing.Bitmap,889329,22-125448,NL14_20094,8/2/2022 9:24,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208031951.csv,R2208030182,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],95.5,mg/l,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],700,uS/cm,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],21.5,oC,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889330System.Drawing.Bitmap,889330,22-125449,NL14_20094,7/29/2022 10:13,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202208011951.csv,R2208010233,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW Nutriënten,Cl nf,[] [CONCTTE] [Cl] [mg/l] [nf] [OW],89.4,mg/l,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW Bemonsteringsdiepte,Bemonsteringsdiepte,[] [MONSDTE] [] [m] [NVT] [OW],0.3,m,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW EGV en temperatuur,Geleidendheid,[] [GELDHD] [] [uS/cm] [25oC] [OW],680,uS/cm,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW EGV en temperatuur,Temperatuur EGV,[] [T] [] [oC] [NVT] [OW],22.9,oC,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW Steekbemonstering tbv fysisch-chemisch onderzoek,Steekbemonstering tbv fysisch-chemisch onderzoek,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW Locatiebezoek in route,Locatiebezoek in route,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,OW Administratie per monster,Administratiekosten,,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
+    889331System.Drawing.Bitmap,889331,22-125450,NL14_20094,7/26/2022 9:26,,,"OW Filtratie 0.45 µm, Klein","Filtratie 0.45 µm, klein filter",,1,,Authorised,110081_Monitoring_202207281951.csv,R2207280124,OMS22-906
