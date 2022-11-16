@@ -6,7 +6,7 @@ Subdoel: automatisch verwerken van aangeboden data tot grafieken
 Gemaakt door Bastiaen Boekelo en Ciska Overbeek, zomer 2022
 Output is overzicht van grafieken per locatie en parameter, voor 4 specifieke parameters en 4 specifieke locaties voor de KWA van HDSR. 
 
-
+----
 Parameters:
 WNS3882, chloride = [] [CONCTTE] [Cl] [mg/l] [nf] [OW]
 WNS7128, Geleidendheid = [] [GELDHD] [] [uS/cm] [25oC] [OW]
@@ -21,9 +21,8 @@ NL14_20930: w25 Inlaat Hekendorp,114907,447493
 
 Een overzicht van de meetlocaties is te bekijken in 'Kaart_KWA_Meetpunten.pdf'
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
 WAT MOET JE DOEN
-
 
 STAP 1: Zet bestanden klaar
 - Exporteer de juiste bestanden uit LIMS. Let op dat de juiste parameters en locaties zijn geselecteerd, dit gaat het gemakkelijkst via Order.number.
@@ -39,9 +38,8 @@ STAP 2: Run script
 - Open de folder 'output'
 - Als het goed is gegaan zijn er hier twee pdf's aangemaakt: een met en een zonder kaart.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----
 VERSION CONTROL
-
 
 Deze map kan worden gesynchroniseerde met Github (https://github.com/CoPEDA/workshop_scriptindeling.git)
 Hier zou de laatste versie aanwezig moeten zijn.
