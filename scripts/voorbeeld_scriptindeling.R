@@ -38,7 +38,6 @@ library(lubridate)
 cols <- read.csv("hulpbestanden/kolomnamen.csv", sep = ",")$kolom_naam
 params <- read.csv("hulpbestanden/WNS_idents.csv", sep = ",")
 locs <- read.csv("hulpbestanden/locaties.csv", sep = ",")
-# months <- read.csv("hulpbestanden/maanden.csv", sep = ",")
 
 # Definieer namen outputs, ook benodigd voor inlezen
 start_txt           <- "KWA Monitoring"
@@ -136,7 +135,6 @@ dev.off()
 
 # Combineer kaart en grafieken pdf
 pdf_combine(input = c("KAART_KWA_Meetpunten.pdf", output_pdf), output = output_pdf_en_kaart)
-
 
 
 
